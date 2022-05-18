@@ -261,8 +261,6 @@ def main():
   app.run_server() # debug=True
 
   print("This would be executed only after the script is closed")
-  print("Just a test for git")
-  print("one more commit")
   df = None
   app = None
 
